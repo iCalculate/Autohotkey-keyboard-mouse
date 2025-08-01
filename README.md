@@ -1,5 +1,7 @@
 # KeyMouse
-
+[![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0+-brightgreen.svg)](https://www.autohotkey.com/download/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 **KeyMouse_xcdu** is an AutoHotkey-based keyboard-to-mouse control utility designed for efficient and precise keyboard-only mouse operation. This tool is particularly useful for users seeking ergonomic input alternatives or enhanced keyboard productivity.
 
 ## 🔧 Features
