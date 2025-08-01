@@ -1,4 +1,4 @@
-# KeyMouse_xcdu
+# KeyMouse
 
 **KeyMouse_xcdu** is an AutoHotkey-based keyboard-to-mouse control utility designed for efficient and precise keyboard-only mouse operation. This tool is particularly useful for users seeking ergonomic input alternatives or enhanced keyboard productivity.
 
